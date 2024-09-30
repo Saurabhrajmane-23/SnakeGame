@@ -1,2 +1,2 @@
 # SnakeGame
-Nikal ja lawde
+Made using vanilla JS
